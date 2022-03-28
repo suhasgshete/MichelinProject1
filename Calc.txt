@@ -1,16 +1,16 @@
-add()
+add(int a, int b)
 {
-	Data is added;
+	int c = a+b;
 }
-sub()
+sub(int a, int b)
 {
-	Data is subtracted;
+	int c = a-b;
 }
-div()
+div(int a, int b)
 {
-	Data is divided;
+	int c = a/b;
 }
-mul()
+mul(int a, int b)
 {
-	Data is multiplied;
+	int c = a*b;
 }
