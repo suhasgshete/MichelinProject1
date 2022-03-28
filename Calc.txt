@@ -1,0 +1,16 @@
+add()
+{
+	Data is added;
+}
+sub()
+{
+	Data is subtracted;
+}
+div()
+{
+	Data is divided;
+}
+mul()
+{
+	Data is multiplied;
+}
